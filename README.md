@@ -44,6 +44,7 @@ To get started with this project, follow these steps:
     ```
 
 3. Install the required packages:
+   Note: Open the CMD Where the file is stored only.
     ```bash
     pip install -r requirements.txt
     ```
