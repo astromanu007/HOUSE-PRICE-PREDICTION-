@@ -1,4 +1,4 @@
-# PRODIGY_ML_01
+# HOUSE PRICE PREDICTION 
 This repository contains a Linear Regression model to predict house prices based on square footage, number of bedrooms, and number of bathrooms. Developed during my internship at Prodigy, this project demonstrates the application of regression techniques in machine learning.
 Certainly! Here's an updated guide for your README file, removing the duplicate text and ensuring clarity.
 
